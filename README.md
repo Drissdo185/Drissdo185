@@ -1,5 +1,5 @@
 ### Hi people, I'm Driss 👋
-### A young person has dream earning 120000$/year as ML engineer or Data engineer 
+### A young person has dream earning 120000$/year as ML engineer
 ### When I have a lot money, I want to build AI like F.R.I.D.A.Y in Ironman
 ### CEO of DOTHE company (8/5/2023)
 ![giphy](https://user-images.githubusercontent.com/107539933/236739563-3b819143-0302-4d01-b1a7-b7da232b9185.gif)
